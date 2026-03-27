@@ -11,6 +11,12 @@ h1 {
   margin-bottom: 15px;
 }
 
+h2 {
+  color: #007040;
+  text-align: center;
+  border:2px solid black;
+  margin-bottom: 15px;
+}
 
 p {
   line-height: 1.6;
