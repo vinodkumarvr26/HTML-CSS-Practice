@@ -51,6 +51,11 @@ a:focus {
   text-decoration: underline;
 }
 
+a:unvisited {
+  color:skyblue;
+  text-decoration: underline;
+}
+
 ul {
   list-style-type: square;
   padding: 0;
